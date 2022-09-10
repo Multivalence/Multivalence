@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shiva, a full-time student at the University of Toronto 👨‍🎓 studying Computer Science and Information Security 💻</div>  
   
 
-- 🔭 I’m currently freelancing on Fiverr  
+- 🔭 I’m currently working as a Full Stack Developer & Coding Instructor
   
 
 - 🌱 I’m currently learning Next.js, Tailwind CSS, and Netlify  
