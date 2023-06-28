@@ -6,10 +6,10 @@
 ### <div align="center">I'm Shiva, a full-time student at the University of Toronto 👨‍🎓 studying Computer Science and Information Security 💻</div>  
   
 
-- 🔭 I’m currently working as a Full Stack Developer & Coding Instructor
+- 🔭 I’m currently working as a Software Developer & Coding Instructor
   
 
-- 🌱 I’m currently learning Next.js, Tailwind CSS, and Netlify  
+- 🌱 I’m currently learning Vue.js, ASP.NET, and Pen Testing  
   
 
 - 🏦 Looking to get an Internship. HMU If you think I'd be useful to you.  
